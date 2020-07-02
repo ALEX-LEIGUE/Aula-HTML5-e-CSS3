@@ -1,0 +1,17 @@
+body{
+    background: rgb(133, 177, 228);
+    margin: 40px
+    
+    }
+head{
+    margin-top: 100px;
+}
+
+.img_padrao {
+    width: 30px;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
